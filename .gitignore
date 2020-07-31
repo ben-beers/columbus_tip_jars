@@ -3,3 +3,5 @@
 .idea/*
 
 .now
+# Local Netlify folder
+.netlify
